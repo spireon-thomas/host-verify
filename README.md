@@ -5,3 +5,4 @@ This script was built when a user requested access to over 200 new hosts, loosel
 1. If they are not, they can't be processed until they are further verified.
 2. If so, they are at least reachable.
 
+Later, chef can use the legitimized list to run on the good hosts.
